@@ -12,7 +12,6 @@
 )](https://www.facebook.com/people/CodeCrafters/100068407399699/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fabiomarim.me)
 
-![Marim GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioMarim&show_icons=true&theme=radical)
 
 >### I believe that technology plays a fundamental role in our current world, and I am always looking for new challenges and opportunities to apply my knowledge to interesting and meaningful projects.💻🌎
 
