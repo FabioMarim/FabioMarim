@@ -33,7 +33,7 @@
 
 ## The fastest way to contact me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](fabiomarim.eng@gmail.com)
+)](mailto:fabiomarim.eng@gmail.com)
 
 ## Or you can contact me through my most active social network:
 
