@@ -15,6 +15,10 @@
 
 >### I believe that technology plays a fundamental role in our current world, and I am always looking for new challenges and opportunities to apply my knowledge to interesting and meaningful projects.💻🌎
 
+![Marim GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioMarim&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMarim&size_weight=0.5&count_weight=0.5)
+
 ## Technologies I use in my daily life:
 
 <div style="display: inline_block">
